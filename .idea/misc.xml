@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/custom_button.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/custom_button2.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/custom_input.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/etmain.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_add_circle_outline_10.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.275" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.275" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_pets_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_phone_iphone_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_baseline_sub_24.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_double.xml" value="0.290625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_enter.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_firststep.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_rectangle_479.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_secondstep.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_single.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_test.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/drawable/ic_wall_normal.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/font/fonts.xml" value="0.3046875" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout-land/activity_login.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/activity_doctor_dashboard.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/activity_login.xml" value="0.152" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/activity_registration.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/activity_user_dasboard.xml" value="0.17468354430379746" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/addpet.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/adminhome.xml" value="0.152" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/cartcustomitem.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/checkout.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/checkoutcustomitem.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/customitem.xml" value="0.152" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/finishedorders.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/fragment_favourite.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/fragment_orders.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/fragmentproductview.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/layout_regfirst.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/layout_regsecond.xml" value="0.152" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/my_sales.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/new_orders.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/layout/verify.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/menu/user_menu.xml" value="0.536" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Pet_Store/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

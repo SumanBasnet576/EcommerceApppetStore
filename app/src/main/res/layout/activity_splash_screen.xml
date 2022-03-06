@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".view_controller.activities.SplashScreen"
+   android:background="@drawable/mainbackground1"
+    >
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/paw5"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/blackpaw"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/paw4"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="32dp"
+        android:alpha="0.8"
+        android:layout_gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/blackpaw" />
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/paw3"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_gravity="center"
+        android:alpha="0.6"
+        app:srcCompat="@drawable/blackpaw" />
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/paw2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:alpha="0.4"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.86"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/blackpaw" />
+
+    <ImageView
+        android:layout_marginTop="32dp"
+        android:visibility="invisible"
+        android:id="@+id/paw1"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginRight="32dp"
+        android:layout_gravity="center"
+        android:alpha="0.2"
+        app:srcCompat="@drawable/blackpaw" />
+
+</LinearLayout>

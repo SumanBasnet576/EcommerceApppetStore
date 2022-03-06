@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <io.alterac.blurkit.BlurLayout
+        android:layout_width="match_parent"
+        android:layout_height="216dp"
+        android:layout_margin="4dp"
+        android:background="@drawable/linearbg1"
+        app:cardCornerRadius="15dp"
+        app:blk_cornerRadius="15dp"
+        app:blk_blurRadius="25"
+        app:cardBackgroundColor="#00FFFFFF"
+        app:cardElevation="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardView3"
+                android:layout_width="match_parent"
+                android:layout_height="128dp"
+                android:layout_margin="4dp"
+                app:cardBackgroundColor="#00FFFFff"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="0dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/dogo" />
+            </androidx.cardview.widget.CardView>
+
+            <Button
+                android:id="@+id/addtoCart"
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:layout_margin="4dp"
+                android:background="@drawable/custom_button2"
+                android:drawableRight="@drawable/ic_baseline_shopping_cart_24"
+                android:letterSpacing="0.1"
+                android:text="Add to Cart "
+                android:textColor="@color/colorblack"
+                android:textSize="11dp"
+                app:backgroundTint="@color/colorwhite"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/price" />
+
+            <TextView
+                android:id="@+id/productname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:gravity="left"
+                android:paddingLeft="15dp"
+                android:text="Cute Dog for sale"
+                android:textColor="@color/colorwhite"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/cardView3" />
+
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Nrs 5000"
+                android:layout_margin="4dp"
+                android:paddingLeft="15dp"
+                android:textColor="@color/colorwhite"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/productname" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </io.alterac.blurkit.BlurLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

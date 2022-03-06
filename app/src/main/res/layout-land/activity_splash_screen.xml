@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view_controller.activities.SplashScreen"
+   android:background="@drawable/ic_test"
+    >
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="144dp"
+        android:layout_marginTop="132dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/logo213"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.499"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></ImageView>
+
+    <ImageView
+
+        android:id="@+id/paw1"
+        android:layout_width="59dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="40dp"
+        android:alpha="0.6"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.147"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/paw" />
+
+    <ImageView
+        android:id="@+id/paw3"
+        android:layout_width="51dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="168dp"
+        android:layout_marginTop="152dp"
+        android:alpha="0.6"
+        android:visibility="invisible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/paw" />
+
+    <ImageView
+        android:id="@+id/paw2"
+        android:layout_width="54dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="92dp"
+        android:alpha="0.6"
+        android:rotation="-70"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.737"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/paw" />
+
+    <ImageView
+        android:id="@+id/paw4"
+        android:layout_width="51dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="100dp"
+        android:alpha="0.6"
+        android:rotation="-70"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/paw" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
